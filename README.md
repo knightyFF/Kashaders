@@ -1,2 +1,2 @@
 # Kashaders
- Shaders for fragmentarium
+ Shaders for fragmentarium. Mainly fractals.
